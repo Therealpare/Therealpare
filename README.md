@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi there! I'm Saranphat Tonprom
+
+💻 Full-stack Developer | UX-Focused | Cloud Enthusiast  
+🎓 B.Eng. Digital Engineering @ SIIT, Thammasat University  
+📍 Based in Bangkok, Thailand
 
 <!--
 **Therealpare/Therealpare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
